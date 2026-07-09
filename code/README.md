@@ -1,13 +1,8 @@
 # Code
 
-| Project | Repository |
-
-|---|---|
-
-| Network analysis robustness | GitHub link: https://github.com/Moyi-Tian/CommunityRobustness |
-
-| Representation learning robustness | GitHub link: https://github.com/zf-wei/Robustness-of-Graph-Embeddings-for-Community-Detection |
-
-| GNN robustness | GitHub link: https://github.com/jdg-stat/robustgnn |
-
-| Community hidability | GitHub link:  |
+| Research Topic | Repository | Description |
+|----------------|------------|-------------|
+| Network Analysis Robustness | [CommunityRobustness](https://github.com/Moyi-Tian/CommunityRobustness) | Robustness of community structure under edge perturbations. |
+| Graph Embedding Robustness | [Robustness-of-Graph-Embeddings-for-Community-Detection](https://github.com/zf-wei/Robustness-of-Graph-Embeddings-for-Community-Detection) | Robustness analysis of shallow graph embedding methods. |
+| GNN Robustness | [robustgnn](https://github.com/jdg-stat/robustgnn) | Robustness of graph neural networks for community detection. |
+| Community Hidability | Coming soon | Robustness-guided community hidability using GNNs. |
